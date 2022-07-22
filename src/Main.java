@@ -4,5 +4,7 @@ public class Main {
 
         System.out.println("Начинаем работать с Git в командной строке");
         System.out.println("Финальные изменения по слиянию веток");
+
+        System.out.println("Добавляем данные в гугл аналитикс");
     }
 }
